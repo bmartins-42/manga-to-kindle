@@ -1,0 +1,11 @@
+{
+  "name": "scantrad-kindle",
+  "version": "0.0.0",
+  "description": "Download scan you like on your kindle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benoit Martins",
+  "license": "ISC"
+}
